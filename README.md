@@ -1,2 +1,1 @@
-# simple-react-site
-# simple-react-site
+# this is my first react site 
